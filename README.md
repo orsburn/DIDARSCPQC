@@ -7,3 +7,4 @@ Here I have subverted DIDAR for multiplexed single cell proteomics. When used in
 Inter and intrabatch measurements and graphics can be easily constructed from the tiny diagnostic ion text files. 
 ![image](https://user-images.githubusercontent.com/39571544/155019342-fc75fc49-3566-4e9a-9641-b97bef7d04aa.png)
 For further information, please see the biorxiv preprint by Jenkins and Orsburn, 2022. 
+For a brief and unprofessional tutorial on using this tool, check out this video: https://youtu.be/ojHdmJsFmEM
